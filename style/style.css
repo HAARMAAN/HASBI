@@ -1,0 +1,27 @@
+body {
+    margin: 0;
+    padding: 0;    
+}
+.navbar {
+    width: 100%;
+    text-align: center;
+    background-color: #ff0b0f;
+    padding: 10px;
+}
+.navbar a {
+    padding: 10px;
+    color: #fff;    
+    text-decoration: none;
+    margin: 10px;
+    border: 2px solid #ccc;
+}
+
+
+.navbar a:hover {
+    color: #ff0b0f;
+    background-color: #fff;
+    border: 2px solid #ccc;
+}
+.navbar a:active {
+    color: black;
+}
